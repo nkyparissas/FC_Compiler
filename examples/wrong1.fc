@@ -1,0 +1,6 @@
+/* My wrong FC program */
+integer main()
+begin
+	writeString("Hello World!\n"; //SYNTAX MISTAKE
+	return 0;
+end
